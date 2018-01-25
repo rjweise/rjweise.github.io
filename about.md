@@ -24,7 +24,7 @@ Hi, I'm RJ Weise from Calgary, AB. I enjoy scraping and visualizing sports data 
 ### GIS
 * 15 years experience with ESRI software (Desktop & Server), some QGIS, GeoServer / PostGIS, Python, SQL and VBA
 
-### Programming
+### PROGRAMMING
 * R, RStudio, Google Big Query SQL
 
 ### EDUCATION
