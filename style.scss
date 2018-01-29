@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $orange;
-  font: 18px/1.4 $helvetica;
+	background: $lightGray;
+  font: 18px/1.4 $Verdana;
   color: $darkGray;
 }
 
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $yellow;
   }
 }
 
