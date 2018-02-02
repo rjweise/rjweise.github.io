@@ -7,4 +7,4 @@ title: Article - Are NHL referees biased towards certain teams or home teams vs.
 
 I ran into [an interesting website](http://scoutingtherefs.com) by Joshua Smith, and after reading some of the content and playing with the data I decided to look for some more detail. Using R ([code](https://github.com/rjweise/RESEARCH---NHL-Referees/blob/master/Rcode-NHLGameJSONperSeason)) I downloaded the basic information I needed to analyze and visualize in Tableau Public.
 
-<to be continued>
+-to be continued-
