@@ -1,6 +1,7 @@
 ---
+title: Puck Possessed
+date: 2018-10-18 00:00:00 Z
 layout: post
-title: Puck Possessed #1
 ---
 
 ## Puck Possessed number 1

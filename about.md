@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Hi, I'm RJ from Calgary, and I am puck possessed. I enjoy auto-scraping and analyzing hockey data using R and SQL, and then use Gravit and Tableau to visualize the data in a format that is understandable to an non analytical -but hockey loving- audience.

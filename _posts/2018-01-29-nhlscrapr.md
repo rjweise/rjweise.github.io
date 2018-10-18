@@ -1,6 +1,8 @@
 ---
-
+title: Nhlscrapr
+date: 2018-01-29 00:00:00 Z
 ---
+
 # A collection of link and tips for using the nhlscrapr package by A. C. thomas
 
 ## Links
