@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm RJ Weise from Calgary, AB. I enjoy scraping and visualizing sports data using R, Big Query and Tableau.
+Hi, I'm RJ from Calgary, and I am puck possessed. I enjoy auto-scraping and analyzing hockey data using R and SQL, and then use Gravit and Tableau to visualize the data in a format that is understandable to an non analytical -but hockey loving- audience.
 
 
 ## RESUME
@@ -12,11 +12,12 @@ Hi, I'm RJ Weise from Calgary, AB. I enjoy scraping and visualizing sports data 
 ### DATA VISUALIZATION & DESIGN
 * Information Visualization MOOC: Indiana University
 * Data Visualization and Infographics with D3 MOOC: Knight Center for Journalism in the Americas
-* Selfstudy > Automate the boring stuff with Python, on Udemy
-* Selfstudy > Harvard Extension School CSCI E-171 Visualization (video lectures and labs on D3)
-* Selfstudy > Interactive Data Visualization for the Web (D3.js)
+* Selfstudy: Automate the boring stuff with Python, on Udemy
+* Selfstudy: Harvard Extension School CSCI E-171 Visualization (video lectures and labs on D3)
+* Selfstudy: Interactive Data Visualization for the Web (D3.js)
 * Tableau Software: Tableau Fundamentals
 * Tableau Software: Tableau Advanced
+* Tableau Software: Tableau Server Administration
 * Alberta College Art + Design: Graphic Design Certificate Program
 * Quickdraw Animation Society: Animation 101
 * Canadian Management Centre: Effective presentation skills
@@ -25,7 +26,7 @@ Hi, I'm RJ Weise from Calgary, AB. I enjoy scraping and visualizing sports data 
 * 15 years experience with ESRI software (Desktop & Server), some QGIS, GeoServer / PostGIS, Python, SQL and VBA
 
 ### PROGRAMMING
-* R, RStudio, Google Big Query SQL
+* R, RStudio, SQL
 
 ### EDUCATION
 * Van Hall Instituut The Netherlands: Geographical Information Studies, August 1999
