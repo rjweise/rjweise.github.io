@@ -1,6 +1,6 @@
 ---
-title: Rjweise.Github.Io
-timezone: UTC
+title: Puck Possessed
+timezone: UTC-6
 collections:
   posts:
     title: Posts
@@ -47,8 +47,3 @@ exclude:
 - LICENSE
 - README.md
 - CNAME
-plugins:
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-assets
-  - another-jekyll-plugin
