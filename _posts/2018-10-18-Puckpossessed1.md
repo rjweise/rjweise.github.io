@@ -1,5 +1,5 @@
 ---
-title: 'Puck Possessed #1'
+title: Puck Possessed One
 date: {}
 layout: post
 published: true
