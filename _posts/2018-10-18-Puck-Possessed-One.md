@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Puck Possessed numero uno has a comical look (as in _looking like a comic_) at puck possession through shot attempts, related to goal differential (goals for - goals against).
-## ![PuckPossessed2q]({{site.url}}{{site.baseurl}}/images/PuckPossessed2quartersize.png "Puck Possessed 2q")
+## ![PuckPossessed1q]({{site.url}}{{site.baseurl}}/images/PuckPossessed1quartersize.png "Puck Possessed 1q")
 
 Here's a look at puck possession expressed in shot attempts, and goal differential
 
